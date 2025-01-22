@@ -25,6 +25,27 @@ Checkout the demo app here - https://email-editor-demo-blue.vercel.app/
 
 Checkout the [documentation](https://editor-docs.ravenapp.dev/) for other available options.
 
+
+# Email Editor
+
+This project provides an email editor with both frontend and backend components. Follow the steps below to set it up and run it locally on your machine.
+
+## Get Started
+
+### Run Locally
+
+This guide will help you set up the email editor locally.
+
+### Clone the Repository
+
+The first step is to clone the repository to have a local working copy.
+
+1. Open the command prompt.
+2. Run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/ravenappdev/email-editor.git
+
+
 ## License
 
 MIT Licensed
