@@ -12,7 +12,7 @@ To use our React Email Editor, install it from NPM and include it in your own Re
 npm i raven-react-email-editor
 ```
 
-Checkout the example usage here - https://github.com/ravenappdev/react-email-editor
+Checkout the example usage here - https://github.com/gauravverma9795/Email-Builder-main
 
 ## Live Demo
 
