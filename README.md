@@ -46,6 +46,32 @@ The first step is to clone the repository to have a local working copy.
    git clone https://github.com/ravenappdev/email-editor.git
 
 
-## License
+# Email Editor
 
-MIT Licensed
+This project is an email editor with both frontend and backend components. It allows you to create, edit, and manage emails locally on your machine.
+
+## Table of Contents
+
+- [Get Started](#get-started)
+  - [Clone the Repository](#clone-the-repository)
+  - [Install the Dependencies](#install-the-dependencies)
+    - [Install Dependencies for Frontend](#install-dependencies-for-frontend)
+    - [Install Dependencies for Backend](#install-dependencies-for-backend)
+  - [Start the Email Editor Locally](#start-the-email-editor-locally)
+    - [Start the Server](#start-the-server)
+    - [Start the App](#start-the-app)
+- [License](#license)
+
+## Get Started
+
+Follow the steps below to set up and run the email editor locally on your machine.
+
+### Clone the Repository
+
+The first step is to have a local working copy of the repository.
+
+1. Open the command prompt (or terminal on Linux/Mac).
+2. Run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/ravenappdev/email-editor.git
+
