@@ -18,34 +18,6 @@ Checkout the example usage here - https://github.com/gauravverma9795/Email-Build
 
 Checkout the demo app here - https://email-editor-demo-blue.vercel.app/
 
-## Documentation
-
-- [Run Locally](https://editor-docs.ravenapp.dev/get-started/run-locally)
-- [Customization](https://editor-docs.ravenapp.dev/customization)
-
-Checkout the [documentation](https://editor-docs.ravenapp.dev/) for other available options.
-
-
-# Email Editor
-
-This project provides an email editor with both frontend and backend components. Follow the steps below to set it up and run it locally on your machine.
-
-## Get Started
-
-### Run Locally
-
-This guide will help you set up the email editor locally.
-
-### Clone the Repository
-
-The first step is to clone the repository to have a local working copy.
-
-1. Open the command prompt.
-2. Run the following command to clone the repository:
-   ```bash
-   git clone https://github.com/ravenappdev/email-editor.git
-
-
 # Email Editor
 
 This project is an email editor with both frontend and backend components. It allows you to create, edit, and manage emails locally on your machine.
@@ -53,7 +25,7 @@ This project is an email editor with both frontend and backend components. It al
 ## Table of Contents
 
 - [Get Started](#get-started)
-  - [Clone the Repository](#clone-the-repository)
+  - [Clone the Repository](https://github.com/gauravverma9795/Email-Builder-main)
   - [Install the Dependencies](#install-the-dependencies)
     - [Install Dependencies for Frontend](#install-dependencies-for-frontend)
     - [Install Dependencies for Backend](#install-dependencies-for-backend)
@@ -73,5 +45,5 @@ The first step is to have a local working copy of the repository.
 1. Open the command prompt (or terminal on Linux/Mac).
 2. Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/ravenappdev/email-editor.git
+   https://github.com/gauravverma9795/Email-Builder-main
 
