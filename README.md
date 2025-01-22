@@ -9,7 +9,7 @@ A lightweight email editor to embed in your SaaS application. It is built on [cr
 To use our React Email Editor, install it from NPM and include it in your own React build process.
 
 ```
-npm i raven-react-email-editor
+https://github.com/gauravverma9795/Email-Builder-main
 ```
 
 Checkout the example usage here - https://github.com/gauravverma9795/Email-Builder-main
